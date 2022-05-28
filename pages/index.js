@@ -35,6 +35,7 @@ export async function getStaticProps() {
         address: meetup.address,
       })),
     },
+    revalidate: 1,
   };
 }
 
