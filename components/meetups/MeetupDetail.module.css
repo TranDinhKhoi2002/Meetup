@@ -1,0 +1,13 @@
+.detail {
+  text-align: center;
+}
+
+.detail h1,
+.detail p,
+.detail address {
+  margin: 10px 0;
+}
+
+.detail img {
+  width: 100%;
+}
